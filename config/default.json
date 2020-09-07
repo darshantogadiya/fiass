@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://smit123:smit123@connections.eu3qi.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret":"AlanTuringisbest"
+}
