@@ -27,7 +27,7 @@ const postSchema = mongoose.Schema({
             },
         }
     ],
-    commments:[
+    comments:[
         {
             user:
             {
