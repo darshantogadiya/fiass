@@ -42,7 +42,8 @@ const Login = () => {
             // }
         }
     }
-    return <Fragment>
+    return <section className="container">
+        <Fragment>
             <h1 className="large text-primary">Sign In</h1>
             <p className="lead"><i className="fas fa-user"></i> Sign in into Your Account</p>
             <form className="form" onSubmit={e=>onSubmit(e)}>
@@ -67,7 +68,8 @@ const Login = () => {
             <p className="my-1">
                Don't have an account? <Link to="/register">Sign up</Link>
             </p>
-        </Fragment>;
+        </Fragment>
+        </section>;
 }
 
 export default Login
