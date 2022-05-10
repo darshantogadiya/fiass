@@ -9,7 +9,7 @@
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "author": "Smit Parmar",
+  "author": "Darshan",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.20.0",

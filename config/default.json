@@ -1,6 +1,6 @@
 {
-    "mongoURI":"mongodb+srv://smit123:smit123@connections.eu3qi.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    "jwtSecret":"AlanTuringisbest",
-    "githubClientId":"3215499e157fa1e2e4b5",
-    "githubSecret":"d95d224b82f5ec68880560cd01d4879237d9a648"
+  "mongoURI": "mongodb://127.0.0.1:27017",
+  "jwtSecret": "AlanTuringisbest",
+  "githubClientId": "3215499e157fa1e2e4b5",
+  "githubSecret": "d95d224b82f5ec68880560cd01d4879237d9a648"
 }
